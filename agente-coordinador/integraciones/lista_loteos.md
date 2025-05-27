@@ -14,4 +14,4 @@ Esta integración le permite al bot responder automáticamente cuando le hagan p
 - “¿Hay financiación disponible?”
 
 **Ejemplo de uso en instrucciones:**
-Mostrar "lista_terrenos" si el cliente pregunta por zonas o terrenos.
+Mostrar "lista_lotes" si el cliente pregunta por zonas o terrenos.
